@@ -49,3 +49,9 @@ class Vacancy:
 
     def __ge__(self, other):
         return self.salary >= other.salary
+
+
+if __name__ == "__main__":
+    vac1 = Vacancy("Дизайнер", "link1", 50000, "Требования для дизайнера")
+    vac2 = Vacancy("Менеджер", "link2", 70000, "Требования для менеджера")
+    print(vac1.__le__(vac2))

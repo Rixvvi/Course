@@ -1,0 +1,1042 @@
+[
+    {
+        "name": "Повар (д. Путилково)",
+        "link": "https://api.hh.ru/vacancies/97747303?host=hh.ru",
+        "salary": {
+            "from": 68000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Рассматриваем кандидатов с опытом и без."
+    },
+    {
+        "name": "Повар в ресторан",
+        "link": "https://api.hh.ru/vacancies/119754380?host=hh.ru",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Профильное образование в сфере кулинарии или пищевого производства. Желателен опыт работы на аналогичной должности желателен. Знание санитарии и гигиены."
+    },
+    {
+        "name": "Повар в Частный Дом",
+        "link": "https://api.hh.ru/vacancies/121126863?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы от 3х лет в качестве <highlighttext>повара</highlighttext>. Знание русского языка обязательно. Вкусное приготовление блюд. Сертификат или диплом ( будет..."
+    },
+    {
+        "name": "Персональный ассистент акционера из списка Forbes",
+        "link": "https://api.hh.ru/vacancies/120190015?host=hh.ru",
+        "salary": {
+            "from": 400000,
+            "to": 500000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Написать в сопроводительном письме - с акционерами каких компаний работали + пример самой сложной задачи из профессионального опыта. Лайфстайл-менеджмент. - "
+    },
+    {
+        "name": "Повар в семью Рождествено",
+        "link": "https://api.hh.ru/vacancies/121171446?host=hh.ru",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы <highlighttext>поваром</highlighttext> именно в семье."
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/121003849?host=hh.ru",
+        "salary": {
+            "from": 20000,
+            "to": 20000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Приготовление полуфабрикатов высокой степени готовности. Опыт работы <highlighttext>поваром</highlighttext>-универсалом от 1 года. Умение работать в быстром темпе. Наличие действующей санитарной..."
+    },
+    {
+        "name": "Повар горячего цеха",
+        "link": "https://api.hh.ru/vacancies/120940306?host=hh.ru",
+        "salary": {
+            "from": 20000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
+        },
+        "requirements": "Опыт работы от 5 лет. - Пунктуальность. - Умение работать в команде, работать по тех карте."
+    },
+    {
+        "name": "Повар заготовщик хот-догов",
+        "link": "https://api.hh.ru/vacancies/120610311?host=hh.ru",
+        "salary": {
+            "from": 99200,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Мы срочнo ищeм пoмoщников поварoв, котoрые будут coбиpать вкуcныe блюда пo инcтpукции, фacовать полуфaбpикaты и упаковывать caлaты. И знaeшь что? "
+    },
+    {
+        "name": "Су-шеф",
+        "link": "https://api.hh.ru/vacancies/121182069?host=hh.ru",
+        "salary": {
+            "from": 160000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы Шеф <highlighttext>поваром</highlighttext> или Су-шефом от 3-х лет. Опыт работы в сетевых заведениях приветствуется. Знания санитарных норм..."
+    },
+    {
+        "name": "Повар-кассир",
+        "link": "https://api.hh.ru/vacancies/115913719?host=hh.ru",
+        "salary": {
+            "from": 90562,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": null
+    },
+    {
+        "name": "Оператор производственной линии (пищевое производство, соусы)",
+        "link": "https://api.hh.ru/vacancies/120917971?host=hh.ru",
+        "salary": {
+            "from": 85000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы на пищевом/фармацевтическом/косметическом производстве или <highlighttext>поваром</highlighttext>. Желателен опыт работы на поточных фасовочных линиях. Физическая выносливость и готовность..."
+    },
+    {
+        "name": "Управляющая/управляющий",
+        "link": "https://api.hh.ru/vacancies/121171431?host=hh.ru",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы управляющим в домах площадью от 1000 кв. м. -Знание английского языка на базовом уровне (для общения с филиппинками. -"
+    },
+    {
+        "name": "Официант в ресторан MANANA (м. Домодедовская)",
+        "link": "https://api.hh.ru/vacancies/106975434?host=hh.ru",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы от 1 года. Умение общаться с людьми. Безграничный оптимизм. Желание развиваться в ресторанном бизнесе."
+    },
+    {
+        "name": "Домработница/Домработник",
+        "link": "https://api.hh.ru/vacancies/121006264?host=hh.ru",
+        "salary": {
+            "from": 170000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Требования: правильная русская речь, знание современной бытовой техники и химии."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121177974?host=hh.ru",
+        "salary": {
+            "from": 600000,
+            "to": 700000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Ищем шеф-<highlighttext>повара</highlighttext> с опытом и чувством вкуса в европейской кухне. Специалист с опытом работы шеф-<highlighttext>поваром</highlighttext>. Идейный и инициативный..."
+    },
+    {
+        "name": "Повар в семью",
+        "link": "https://api.hh.ru/vacancies/121144938?host=hh.ru",
+        "salary": {
+            "from": 250000,
+            "to": 280000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Профильное образование. Опыт работы по специальности не менее 10 лет. Опыт работы шеф-<highlighttext>поваром</highlighttext>, су-шефом. Желательно наличие рекомендаций."
+    },
+    {
+        "name": "Повар семейный",
+        "link": "https://api.hh.ru/vacancies/120991509?host=hh.ru",
+        "salary": {
+            "from": 8000,
+            "to": 8000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы <highlighttext>поваром</highlighttext>. -Наличие рекомендаций от прошлых работодателей."
+    },
+    {
+        "name": "Грузчик-комплектовщик",
+        "link": "https://api.hh.ru/vacancies/120213255?host=hh.ru",
+        "salary": {
+            "from": 65000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Ответственность. Умение работать в команде. Наличие медкнижки или желание оформить ( помогаем в оформлении)."
+    },
+    {
+        "name": "Повар в семью",
+        "link": "https://api.hh.ru/vacancies/120961203?host=hh.ru",
+        "salary": {
+            "from": 240000,
+            "to": 360000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Аналогичный опыт в семьях от 2х лет (обязательно) и в ресторанах. - Возможность предоставить рекомендации. - Наличие свежих медицинских анализов или..."
+    },
+    {
+        "name": "Повар горячего цеха/ Повар холодного цеха",
+        "link": "https://api.hh.ru/vacancies/120641519?host=hh.ru",
+        "salary": {
+            "from": 135000,
+            "to": 165000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы в премиум ресторане от 1 года. - Умение работать по технологическим картам. - Наличие медицинской книжки или готовность ее сделать. - "
+    },
+    {
+        "name": "Повар универсал",
+        "link": "https://api.hh.ru/vacancies/120966849?host=hh.ru",
+        "salary": {
+            "from": 21000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": null
+    },
+    {
+        "name": "Менеджер ресторана",
+        "link": "https://api.hh.ru/vacancies/120349205?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 465000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "...импровизаций <highlighttext>поваров</highlighttext>, которые могут нарушить баланс блюда. У тебя фотогеничная память и ты сразу видишь, какой ингредиент забыл <highlighttext>повар</highlighttext>. - "
+    },
+    {
+        "name": "Горничная Крылатское",
+        "link": "https://api.hh.ru/vacancies/121173895?host=hh.ru",
+        "salary": {
+            "from": 180000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "С опытом работы. Активная коллега, ранее имеющая опыт работы на больших площадях."
+    },
+    {
+        "name": "Повар в семью",
+        "link": "https://api.hh.ru/vacancies/121036306?host=hh.ru",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы в семьях Vip-уровня. Опыт работы в ресторанах премиум уровня. Знание принципов раздельного питания, безглютен. Наличие рекомендаций. "
+    },
+    {
+        "name": "Шеф-Повар",
+        "link": "https://api.hh.ru/vacancies/120953507?host=hh.ru",
+        "salary": {
+            "from": 1500000,
+            "to": 2000000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Опыт работы в должности шеф-<highlighttext>повара</highlighttext> от 6 лет. Умение организовывать работу команды, умение управлять коллективом. Отличное знание экономики ресторанного..."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121161716?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы шеф-<highlighttext>поваром</highlighttext> от 3 лет. Отличное знание европейской. Навыки управления персоналом и организации кухонных процессов. Умение работать с..."
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/121048380?host=hh.ru",
+        "salary": {
+            "from": 5500,
+            "to": 6000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "опыт работы от 1 года в кафе или ресторанах. - опрятный внешний вид, грамотная речь."
+    },
+    {
+        "name": "Сетевой шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121128724?host=hh.ru",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Знание санитарных норм. Стрессоустойчивость, ответственность, исполнительность. Опыт работы от 1 года, желательно японская, азиатская кухни. Понимание и практика соблюдение санитарных..."
+    },
+    {
+        "name": "Су-шеф",
+        "link": "https://api.hh.ru/vacancies/120551585?host=hh.ru",
+        "salary": {
+            "from": 400000,
+            "to": 550000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Опыт работы на аналогичной должности от 2 лет. Знание технологических процессов и стандартов приготовления блюд. Умение организовывать и контролировать работу..."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121114097?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Опыт работы шеф-<highlighttext>поваром</highlighttext> от 3 лет в ресторанах аналогичного уровня. Знание русской и европейской кухни. Умение организовать работу команды..."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121036657?host=hh.ru",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы в должности шеф-<highlighttext>повара</highlighttext> от 3-х лет. Знание тенденций ресторанного рынка Москвы. Знание европейской/русской кухни. "
+    },
+    {
+        "name": "Начальник участка/смены",
+        "link": "https://api.hh.ru/vacancies/121171211?host=hh.ru",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опытного мастера/бригадира/сменного руководителя на производстве, желательно пищевом или ресторанном. С опытом работы с командой от 10 человек. "
+    },
+    {
+        "name": "Повар универсал",
+        "link": "https://api.hh.ru/vacancies/120940454?host=hh.ru",
+        "salary": {
+            "from": 500000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "requirements": "Вкусно готовить. Чистоплотность."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121131488?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы в должности шеф-<highlighttext>повара</highlighttext> от 3-х лет. Высокий уровень организованности и лидерские качества. Развитый эмоциональный интеллект. "
+    },
+    {
+        "name": "Личная горничная/личный помощник",
+        "link": "https://api.hh.ru/vacancies/120957598?host=hh.ru",
+        "salary": {
+            "from": 12000,
+            "to": 15000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Нужна активная."
+    },
+    {
+        "name": "Повар-универсал",
+        "link": "https://api.hh.ru/vacancies/120486582?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Профильное образование. Опыт работы не менее 3 лет. Знание и умение работать с современным оборудованием для ресторанов. Знание русской и..."
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/120987621?host=hh.ru",
+        "salary": {
+            "from": 18000,
+            "to": 25000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "requirements": "Опыт работы от 1 года. Ответственность и чистоплотность."
+    },
+    {
+        "name": "Официант",
+        "link": "https://api.hh.ru/vacancies/120977668?host=hh.ru",
+        "salary": {
+            "from": 230000,
+            "to": 280000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы от 1 года в ресторанах fine dining. Внимание к деталям. Наличие медицинской книжки или готовность ее оформить."
+    },
+    {
+        "name": "Повар-универсал",
+        "link": "https://api.hh.ru/vacancies/119890886?host=hh.ru",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Умение работать с технологическими картами. Наличие действующей медицинской книжки. Опыт работы в должности <highlighttext>повара</highlighttext> не менее 1 года. "
+    },
+    {
+        "name": "Помощник руководителя (личный помощник акционера компании)",
+        "link": "https://api.hh.ru/vacancies/121025302?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы с первыми лицами. - Опыт работы с семьёй. - Высшее образование. - Грамотная устная и письменная речь. - Английский язык (разговорный). - "
+    },
+    {
+        "name": "Младший контент-менеджер",
+        "link": "https://api.hh.ru/vacancies/121129933?host=hh.ru",
+        "salary": null,
+        "requirements": "Уверенный пользователь Adobe Photoshop. Базовые знания Figma. Знание Bitrix24 будет плюсом. Опыт работы с task-менеджерами (Trello, YouTrack и..."
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/118249769?host=hh.ru",
+        "salary": {
+            "from": 68400,
+            "to": 100320,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы от полу года или оконченное образование по профессии <highlighttext>повар</highlighttext>. Готовность обучаться новому."
+    },
+    {
+        "name": "Повар в ресторан Кофемания",
+        "link": "https://api.hh.ru/vacancies/120705386?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": null
+    },
+    {
+        "name": "Шеф-повар в частную школу (Юнусабад)",
+        "link": "https://api.hh.ru/vacancies/121138323?host=hh.ru",
+        "salary": {
+            "from": 13000000,
+            "to": 20000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "requirements": "Опыт работы шеф-<highlighttext>поваром</highlighttext> или старшим <highlighttext>поваром</highlighttext> от 3 лет. Знание санитарных норм и правил приготовления пищи для детей. "
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121131465?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы в должности шеф-<highlighttext>повара</highlighttext> от 3-х лет. Высокий уровень организованности и лидерские качества. Развитый эмоциональный интеллект. "
+    },
+    {
+        "name": "Администратор в театр",
+        "link": "https://api.hh.ru/vacancies/120655873?host=hh.ru",
+        "salary": {
+            "from": 55000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы в сфере обслуживания от 1 года. Так же рассматриваем кандидатов без опыта работы. Понимание принципов сервиса и гостеприимства. "
+    },
+    {
+        "name": "Специалист по электронному документообороту (ЭДО)",
+        "link": "https://api.hh.ru/vacancies/121100170?host=hh.ru",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Опыт работы с ЭДО (важно именно в Контур Диадок). Понимание процессов полного цикла прохождения документов (от составления и редактирования до..."
+    },
+    {
+        "name": "Уборщица/Уборщик",
+        "link": "https://api.hh.ru/vacancies/120890506?host=hh.ru",
+        "salary": {
+            "from": 290000,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Опыт работы в иностранной семье. Опыт уборки частного дома. Желательны рекомендации с прошлых мест работы."
+    },
+    {
+        "name": "Повар холодного цеха",
+        "link": "https://api.hh.ru/vacancies/120873712?host=hh.ru",
+        "salary": {
+            "from": 85000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "С вас: активность, ответственность, пунктуальность, желание работать, наличие сан. книжки, опыт работы от двух лет."
+    },
+    {
+        "name": "Повар горячего цеха",
+        "link": "https://api.hh.ru/vacancies/121134679?host=hh.ru",
+        "salary": {
+            "from": 400000,
+            "to": 500000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Среднее специальное образование. Опыт работы на данной позиции от 2х лет и выше. Наличие санитарной книжки с допуском к..."
+    },
+    {
+        "name": "Водитель погрузчика",
+        "link": "https://api.hh.ru/vacancies/121090611?host=hh.ru",
+        "salary": {
+            "from": 115000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Опыт работы водителем вилочного погрузчика. Аккуратность и внимательность, бережное отношение к технике. Ответственность, исполнительность. Наличие удостоверения на работу на погрузчике."
+    },
+    {
+        "name": "Менеджер ресторана",
+        "link": "https://api.hh.ru/vacancies/120994743?host=hh.ru",
+        "salary": {
+            "from": 210000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы от 2 лет в ресторанах Fine dining. Грамотная речь. Лидерские качества. Умение самостоятельно принимать решения. Высокий уровень ответственности..."
+    },
+    {
+        "name": "Шеф-повар в Red. Steak&Wine.",
+        "link": "https://api.hh.ru/vacancies/121131833?host=hh.ru",
+        "salary": {
+            "from": 140000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": null
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/120486568?host=hh.ru",
+        "salary": {
+            "from": 140000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы <highlighttext>поваром</highlighttext>, знание холодного, горячего, мясного цехов. Умение составлять технологические карты, разрабатывать новые рецепты. Дисциплинированность, исполнительность. Готовность к интенсивной..."
+    },
+    {
+        "name": "Повар Холодного цеха 4500 р.",
+        "link": "https://api.hh.ru/vacancies/120421698?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы в ресторанах Премиум класса от 3-х лет (Итальянская, Средиземноморская, Европейская кухня). Ответственность, профессиональный подход к работе. "
+    },
+    {
+        "name": "Бренд шеф/Шеф повар",
+        "link": "https://api.hh.ru/vacancies/121165311?host=hh.ru",
+        "salary": null,
+        "requirements": "Активного, исполнительного и вовлечённого профессионала. Опыт работы в японской и паназиатской кухне, знание всех этапов технологического процесса - обязательно! "
+    },
+    {
+        "name": "Повар в бармузей Васи Ложкина",
+        "link": "https://api.hh.ru/vacancies/119224010?host=hh.ru",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Аккуратность и ответственность. Честность и порядочность. Дружелюбие и позитивное отношение к жизни и своему делу. Активность и оптимизм. "
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121179977?host=hh.ru",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Успешный опыт работы в данной должности от 2х лет. Опыт управления командой. Официальное трудоустройство. Опыт работы в сфере кулинарии..."
+    },
+    {
+        "name": "Управляющий кафе",
+        "link": "https://api.hh.ru/vacancies/121056346?host=hh.ru",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": null
+    },
+    {
+        "name": "Специалист по документообороту (Транспорт)",
+        "link": "https://api.hh.ru/vacancies/121159183?host=hh.ru",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "УМЕНИЕ внимательно и быстро читать ТСД. Опыт работы с первичной документацией от года. Опыт и знание транспортной логистики будет преимуществом. "
+    },
+    {
+        "name": "Повар горячего цеха в ресторан \"Русская рыбалка\"",
+        "link": "https://api.hh.ru/vacancies/119386157?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Профильное образование (среднее специальное) будет Вашим преимуществом. Опыт работы <highlighttext>поваром</highlighttext> в ресторане от 1-го года. Желание развиваться в ресторанной..."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121023740?host=hh.ru",
+        "salary": {
+            "from": 150000,
+            "to": 190000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Опыт работы на позиции шеф-<highlighttext>повара</highlighttext> ресторана от 5 лет. Профильное образование. Опыт управления штатом 20 человек. Знание основ нутрициологии..."
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/120626457?host=hh.ru",
+        "salary": {
+            "from": 430000,
+            "to": 468000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Ответственность, желание развиваться в компании. Опыт работы не менее 5 лет. Наличие сан.книжки."
+    },
+    {
+        "name": "Фасовщик на производство",
+        "link": "https://api.hh.ru/vacancies/121126490?host=hh.ru",
+        "salary": {
+            "from": 200000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Ответственный."
+    },
+    {
+        "name": "Администратор",
+        "link": "https://api.hh.ru/vacancies/120938423?host=hh.ru",
+        "salary": {
+            "from": 1000,
+            "to": 1200,
+            "currency": "BYR",
+            "gross": false
+        },
+        "requirements": "Желание работать и обучаться. Ответственность, аккуратность, активность, доброжелательность. Позитивный настрой. Умение общаться с людьми. Опрятный внешний вид."
+    },
+    {
+        "name": "Менеджер ресторана Biologie * Мишлен",
+        "link": "https://api.hh.ru/vacancies/120968815?host=hh.ru",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "организаторские способности. - безупречное знание кассовой. - финансовая грамотность. - опыт работы от 2-х лет на позиции и рекомендации с предыдущего места..."
+    },
+    {
+        "name": "Работник в цех готовой продукции",
+        "link": "https://api.hh.ru/vacancies/121157782?host=hh.ru",
+        "salary": {
+            "from": 6000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Образование не ниже среднего. Опыт работы с рыбной, мясной, сырной нарезкой будет плюсом. Аккуратность, активность, ответственность, внимательность."
+    },
+    {
+        "name": "Су-шеф",
+        "link": "https://api.hh.ru/vacancies/121073003?host=hh.ru",
+        "salary": {
+            "from": 500000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "requirements": "Опыт работы на позиции су-шефа или старшего <highlighttext>повара</highlighttext> от 2 лет. Знание и любовь к итальянской кухне — обязательно. "
+    },
+    {
+        "name": "Middle/Senior Frontend Developer (Vue/TS)",
+        "link": "https://api.hh.ru/vacancies/121045091?host=hh.ru",
+        "salary": null,
+        "requirements": "Опыт работы в качестве frontend-разработчика в коммерческой разработке от 2 лет в команде. Отличное знание JavaScript. Профессиональное владение современными..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "link": "https://api.hh.ru/vacancies/121036253?host=hh.ru",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы на участках ТМЦ, ОС и услуг. Опыт работы от 3 лет бухгалтер по первичной документации. Высшее профильное образование. "
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/120957147?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "requirements": null
+    },
+    {
+        "name": "Повар бортовик",
+        "link": "https://api.hh.ru/vacancies/121030467?host=hh.ru",
+        "salary": {
+            "from": 20000,
+            "to": 20000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "С опытом работы не менее трех лет. Коммуникабельность, стрессоустойчивость."
+    },
+    {
+        "name": "Управляющий загородной резиденцией, ВИП семья",
+        "link": "https://api.hh.ru/vacancies/120738640?host=hh.ru",
+        "salary": {
+            "from": 300000,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы в премиальных резиденциях от 3-х лет на позиции управляющего/мажордома/личного помощника. ️ Опыт работы непосредственно с собственниками. ️ "
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/121161861?host=hh.ru",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Важен талант и любовь к профессии. ️Не обязательно иметь огромный опыт и достижения, мы готовы рассмотреть начинающего профессионала так как..."
+    },
+    {
+        "name": "Повар холодного/горячего цеха",
+        "link": "https://api.hh.ru/vacancies/120714547?host=hh.ru",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы на кухне от 1 года. Законченное образование. Знание и соблюдение санитарных норм."
+    },
+    {
+        "name": "Шеф - повар в Сколково",
+        "link": "https://api.hh.ru/vacancies/121101106?host=hh.ru",
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Куда писать: быстро ответим в WhatsApp:"
+    },
+    {
+        "name": "Официант в ресторан",
+        "link": "https://api.hh.ru/vacancies/120981949?host=hh.ru",
+        "salary": {
+            "from": 600000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Опыт работы от 3 лет минимум. Желание роста и развития."
+    },
+    {
+        "name": "SMM-специалист в сеть ресторанов",
+        "link": "https://api.hh.ru/vacancies/121027776?host=hh.ru",
+        "salary": {
+            "from": 80000,
+            "to": 95000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Знание SMM, опыт ведения социальных сетей. Опыт работы SMM в ресторанной сфере. Навыки копирайтинга - грамотная письменная и устная речь. "
+    },
+    {
+        "name": "Старший повар горячего цеха",
+        "link": "https://api.hh.ru/vacancies/120483942?host=hh.ru",
+        "salary": {
+            "from": 68000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Начальное или среднее профессиональное образование. Опыт работы по специальности."
+    },
+    {
+        "name": "Кондитер 5000 р",
+        "link": "https://api.hh.ru/vacancies/120977555?host=hh.ru",
+        "salary": {
+            "from": 95000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы с оформлением тортов. - Знание вкусовых качеств. - Опыт работы в ресторанах Премиум класса (Итальянская, Средиземноморская, Европейская кухня) будет Вашим..."
+    },
+    {
+        "name": "Повар семейный/помощник повара (повар в семью/домашний повар)",
+        "link": "https://api.hh.ru/vacancies/121090690?host=hh.ru",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "профессиональное образование. - опыт работы. - наличие медицинской книжки. - чистоплотность, аккуратность, опрятный внешний вид. - соблюдение субординации. - знание этикета."
+    },
+    {
+        "name": "Повар в ресторан",
+        "link": "https://api.hh.ru/vacancies/120899821?host=hh.ru",
+        "salary": {
+            "from": 5600,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Знание европейскую кухни. Обладание опытом работы <highlighttext>поваром</highlighttext> в ресторане от 1 года. Аккуратность, ответственность и умение работать в команде. "
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/120568632?host=hh.ru",
+        "salary": {
+            "from": 8000000,
+            "to": 13000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "requirements": "Уважительное отношение к персоналу. Опыт работы на кухне от 1 года (желательно в ресторанах высокого уровня). Знание технологий приготовления блюд..."
+    },
+    {
+        "name": "Изготовитель сэндвичей",
+        "link": "https://api.hh.ru/vacancies/120575167?host=hh.ru",
+        "salary": null,
+        "requirements": "#Кухонный работник# <highlighttext>повар</highlighttext> холодного цеха # работа без опыта # гибкий график# нарезка# пищевое производство# подработка# изготовитель."
+    },
+    {
+        "name": "Повар в столовую для сотрудников",
+        "link": "https://api.hh.ru/vacancies/120914125?host=hh.ru",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт от 3-х лет. Наличие действующей медицинской книжки. Желание работать."
+    },
+    {
+        "name": "Специалист по документообороту (Транспорт)",
+        "link": "https://api.hh.ru/vacancies/121159184?host=hh.ru",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "УМЕНИЕ внимательно и быстро читать ТСД. Опыт работы с первичной документацией от года. Опыт и знание транспортной логистики будет преимуществом. "
+    },
+    {
+        "name": "Супервайзер по питанию в частный загородный дом",
+        "link": "https://api.hh.ru/vacancies/121182013?host=hh.ru",
+        "salary": null,
+        "requirements": null
+    },
+    {
+        "name": "Кухонный работник в частный детский сад",
+        "link": "https://api.hh.ru/vacancies/121088073?host=hh.ru",
+        "salary": {
+            "from": 190000,
+            "to": 190000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Исполнительность. Ответственность. Своевременно выполнять работу."
+    },
+    {
+        "name": "Су-шеф в ресторан мясной концепции \"Steak it Easy\"",
+        "link": "https://api.hh.ru/vacancies/120397138?host=hh.ru",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Профильное образование, опыт работы су-шефом или старшим <highlighttext>поваром</highlighttext> (в различных цехах) не менее 1 года. Обязательное условие опыт работы..."
+    },
+    {
+        "name": "Бухгалтер-калькулятор",
+        "link": "https://api.hh.ru/vacancies/121182764?host=hh.ru",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Высшее образование . Опыт работы в бухгалтерии от 2-х лет по общепиту. Знание правил оформления и подготовки бухгалтерских документов. ОБЯЗАТЕЛЬНО! "
+    },
+    {
+        "name": "Управляющий рестораном/операционный директор",
+        "link": "https://api.hh.ru/vacancies/121178234?host=hh.ru",
+        "salary": null,
+        "requirements": "Лидерство и управление командой. Умение вдохновлять и мотивировать сотрудников — ключ к созданию сплоченной и продуктивной команды. Управляющий должен быть примером..."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/120730550?host=hh.ru",
+        "salary": {
+            "from": 110000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опытного шеф-<highlighttext>повара</highlighttext> (не менее 2 лет на позиции шефа). Знание и любовь к итальянской кухне, современным техникам и локальным..."
+    },
+    {
+        "name": "Менеджер зала в Rockets Concept Store",
+        "link": "https://api.hh.ru/vacancies/120727583?host=hh.ru",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Желателен опыт работы в общепите не менее 1 года. Знание стандартов сервиса обслуживания и умение управлять командой. Уверенно себя чувствовали..."
+    },
+    {
+        "name": "Повар личный",
+        "link": "https://api.hh.ru/vacancies/121121462?host=hh.ru",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Знания европейской, русской кухни. Опыт работы личным <highlighttext>поваром</highlighttext>. Ответственность, умение работать в команде."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/120914660?host=hh.ru",
+        "salary": {
+            "from": 350000,
+            "to": 500000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт работы шеф-<highlighttext>поваром</highlighttext> от 5 лет, в премиум сегменте. Умение работать с современными трендами гастрономии. Опыт запуска заведений с..."
+    },
+    {
+        "name": "Шеф-повар",
+        "link": "https://api.hh.ru/vacancies/120441754?host=hh.ru",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "requirements": "Опыт работы на аналогичной должности от 3 лет. * Опыт отслеживания расходов и управления бюджетом. * Умение составлять калькуляционные и технологические карты. * "
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/120189329?host=hh.ru",
+        "salary": {
+            "from": 100000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Инициативен и трудолюбив. Поддерживает порядок и дисциплину. Опрятен, коммуникабелен и доброжелателен. Стрессоустойчив и умеет работать в команде. Готов к командировкам."
+    },
+    {
+        "name": "Шеф-повар (бренд шеф)",
+        "link": "https://api.hh.ru/vacancies/121115756?host=hh.ru",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "requirements": "Опыт успешной работы не менее 4х лет на должности Шеф-<highlighttext>повара</highlighttext>. Наличие мед.книжки. Умение управлять кухней большого ресторана. "
+    },
+    {
+        "name": "Повар",
+        "link": "https://api.hh.ru/vacancies/121046039?host=hh.ru",
+        "salary": {
+            "from": 3000,
+            "to": 3400,
+            "currency": "BYR",
+            "gross": true
+        },
+        "requirements": "Желание работать и развиваться. Желателен опыт работы как в холодном, так и в горячем цеху. Ответственное отношение к работе. "
+    },
+    {
+        "name": "Старший повар",
+        "link": "https://api.hh.ru/vacancies/121109358?host=hh.ru",
+        "salary": {
+            "from": 500000,
+            "to": 520000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "requirements": "Опыт работы на должности сушефа не менее 2х лет. Выполнение всех распоряжений руководителя."
+    }
+]
